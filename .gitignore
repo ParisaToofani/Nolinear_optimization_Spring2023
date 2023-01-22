@@ -1,0 +1,8 @@
+*.pyc
+.venv
+venv
+.vscode
+*.code-workspace
+.eggs
+.ipynb_checkpoints
+pypyv/*
